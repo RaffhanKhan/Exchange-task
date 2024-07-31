@@ -26,8 +26,11 @@ This project is a Spring Boot microservice that provides foreign exchange rate d
 ```bash
 git clone https://github.com/your-repository/exchange-rate-service.git
 cd exchange-rate-service
+```
+
 
 server.port=61001 (change in application property if needed)
+
 Once the application is running, you can access the Swagger UI at:
 
 http://localhost:61001/exchangeservice/swagger-ui/index.html#/
