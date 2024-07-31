@@ -24,8 +24,8 @@ This project is a Spring Boot microservice that provides foreign exchange rate d
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-repository/exchange-rate-service.git
-cd exchange-rate-service
+[git clone https://github.com/your-repository/exchange-rate-service.git](https://github.com/RaffhanKhan/Exchange-task.git)
+cd Exchange-task
 ```
 
 
