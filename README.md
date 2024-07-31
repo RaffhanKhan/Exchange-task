@@ -25,6 +25,9 @@ This project is a Spring Boot microservice that provides foreign exchange rate d
 
 ```bash
 https://github.com/RaffhanKhan/Exchange-task.git
+```
+
+```bash
 cd Exchange-task
 ```
 
